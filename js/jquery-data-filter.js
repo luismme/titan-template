@@ -1,6 +1,6 @@
 $(function() {		
 	
-	var $container = $('.works-container');
+	var $container = $('.works');
     $container.isotope({
         filter: '*',
 		itemSelector: '.item',
